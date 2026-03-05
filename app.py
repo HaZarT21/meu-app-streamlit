@@ -150,7 +150,7 @@ else:
 # --- Tabela de Dados Detalhados ---
 st.subheader("Dados Detalhados")
 st.dataframe(df_filtrado)
-
+#toma
 
 
 
